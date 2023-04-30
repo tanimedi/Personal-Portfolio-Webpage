@@ -33,6 +33,15 @@ header {
   color: white;
   padding: 10px;
 }
+
+#nav-icon {
+  position: relative;
+  top: 10px;
+  text-decoration: none;
+  color: white;
+  padding: 10px;
+}
+
 #container {
 }
 
